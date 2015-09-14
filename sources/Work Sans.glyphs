@@ -914,7 +914,7 @@ unicode = 00C0;
 },
 {
 glyphname = "Alpha-latin";
-lastChange = "2015-09-13 23:45:16 +0000";
+lastChange = "2015-09-14 07:28:34 +0000";
 layers = (
 {
 anchors = (
@@ -1136,6 +1136,7 @@ nodes = (
 width = 814;
 }
 );
+leftKerningGroup = O;
 leftMetricsKey = "=O";
 unicode = 2C6D;
 },
@@ -3925,7 +3926,7 @@ unicode = 0118;
 },
 {
 glyphname = Eopen;
-lastChange = "2015-09-13 23:05:57 +0000";
+lastChange = "2015-09-14 07:26:29 +0000";
 layers = (
 {
 anchors = (
@@ -4147,6 +4148,7 @@ nodes = (
 width = 667;
 }
 );
+rightKerningGroup = C;
 unicode = 0190;
 },
 {
@@ -21825,7 +21827,7 @@ unicode = 00E0;
 },
 {
 glyphname = "alpha-latin";
-lastChange = "2015-09-13 23:32:45 +0000";
+lastChange = "2015-09-14 07:28:44 +0000";
 layers = (
 {
 anchors = (
@@ -21973,6 +21975,7 @@ nodes = (
 width = 638;
 }
 );
+leftKerningGroup = o;
 leftMetricsKey = "=q";
 rightMetricsKey = "=a";
 unicode = 0251;
@@ -25584,7 +25587,7 @@ unicode = 0119;
 },
 {
 glyphname = eopen;
-lastChange = "2015-09-13 22:53:22 +0000";
+lastChange = "2015-09-14 07:26:58 +0000";
 layers = (
 {
 anchors = (
@@ -45524,7 +45527,7 @@ rightKerningGroup = a.sc;
 },
 {
 glyphname = "alpha-latin.sc";
-lastChange = "2015-09-14 00:01:24 +0000";
+lastChange = "2015-09-14 07:28:54 +0000";
 layers = (
 {
 anchors = (
@@ -45746,6 +45749,7 @@ nodes = (
 width = 705;
 }
 );
+leftKerningGroup = o.sc;
 leftMetricsKey = "=o.sc";
 },
 {
@@ -48323,7 +48327,7 @@ rightKerningGroup = e.sc;
 },
 {
 glyphname = eopen.sc;
-lastChange = "2015-09-13 23:47:43 +0000";
+lastChange = "2015-09-14 07:27:30 +0000";
 layers = (
 {
 anchors = (
@@ -48546,6 +48550,7 @@ width = 585;
 }
 );
 leftMetricsKey = "=|c.sc";
+rightKerningGroup = c.sc;
 rightMetricsKey = "=|c.sc";
 },
 {
