@@ -914,7 +914,7 @@ unicode = 00C0;
 },
 {
 glyphname = "Alpha-latin";
-lastChange = "2015-09-14 07:28:34 +0000";
+lastChange = "2015-09-14 21:12:53 +0000";
 layers = (
 {
 anchors = (
@@ -939,8 +939,8 @@ nodes = (
 "622 258 LINE",
 "622 227 LINE",
 "622 108 LINE SMOOTH",
-"622 13 OFFCURVE",
-"676 -10 OFFCURVE",
+"622 34 OFFCURVE",
+"656 -10 OFFCURVE",
 "714 -10 CURVE SMOOTH",
 "734 -10 OFFCURVE",
 "748 -6 OFFCURVE",
@@ -950,7 +950,7 @@ nodes = (
 "730 4 OFFCURVE",
 "711 4 CURVE SMOOTH",
 "667 4 OFFCURVE",
-"638 34 OFFCURVE",
+"638 42 OFFCURVE",
 "638 100 CURVE SMOOTH",
 "638 660 LINE"
 );
@@ -22244,7 +22244,7 @@ unicode = 00E0;
 },
 {
 glyphname = "alpha-latin";
-lastChange = "2015-09-14 07:28:44 +0000";
+lastChange = "2015-09-14 21:20:58 +0000";
 layers = (
 {
 anchors = (
@@ -22276,8 +22276,8 @@ nodes = (
 "485 195 LINE",
 "485 170 LINE",
 "485 82 LINE SMOOTH",
-"485 8 OFFCURVE",
-"526 -10 OFFCURVE",
+"485 22 OFFCURVE",
+"510 -10 OFFCURVE",
 "557 -10 CURVE SMOOTH",
 "573 -10 OFFCURVE",
 "584 -7 OFFCURVE",
@@ -22286,8 +22286,8 @@ nodes = (
 "585 6 OFFCURVE",
 "571 4 OFFCURVE",
 "556 4 CURVE SMOOTH",
-"523 4 OFFCURVE",
-"501 27 OFFCURVE",
+"521 4 OFFCURVE",
+"501 31 OFFCURVE",
 "501 76 CURVE SMOOTH",
 "501 500 LINE"
 );
@@ -46360,7 +46360,7 @@ rightKerningGroup = a.sc;
 },
 {
 glyphname = "alpha-latin.sc";
-lastChange = "2015-09-14 07:28:54 +0000";
+lastChange = "2015-09-14 21:26:56 +0000";
 layers = (
 {
 anchors = (
@@ -46385,8 +46385,8 @@ nodes = (
 "532 218 LINE",
 "532 191 LINE",
 "532 93 LINE SMOOTH",
-"532 11 OFFCURVE",
-"577 -8 OFFCURVE",
+"532 27 OFFCURVE",
+"559 -8 OFFCURVE",
 "611 -8 CURVE SMOOTH",
 "628 -8 OFFCURVE",
 "640 -5 OFFCURVE",
@@ -46395,8 +46395,8 @@ nodes = (
 "641 7 OFFCURVE",
 "625 6 OFFCURVE",
 "609 6 CURVE SMOOTH",
-"572 6 OFFCURVE",
-"548 31 OFFCURVE",
+"571 6 OFFCURVE",
+"548 36 OFFCURVE",
 "548 86 CURVE SMOOTH",
 "548 560 LINE"
 );
