@@ -109177,7 +109177,7 @@ width = 640;
 },
 {
 glyphname = Nhook;
-lastChange = "2016-01-30 16:21:19 +0000";
+lastChange = "2016-01-30 19:47:37 +0000";
 layers = (
 {
 anchors = (
@@ -109419,10 +109419,11 @@ width = 774;
 );
 rightKerningGroup = I;
 rightMetricsKey = "=N";
+unicode = 019D;
 },
 {
 glyphname = nhook;
-lastChange = "2016-01-30 13:00:58 +0000";
+lastChange = "2016-01-30 19:47:46 +0000";
 layers = (
 {
 anchors = (
@@ -109580,6 +109581,7 @@ width = 604;
 );
 leftKerningGroup = j;
 rightKerningGroup = n;
+unicode = 0272;
 },
 {
 glyphname = nhook.sc;
